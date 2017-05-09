@@ -1,14 +1,14 @@
 <?php
 /**
  * @package cl-pf-boost
- * @version 1.1
+ * @version 1.0
  */
 /*
 Plugin Name: Creative Little Performance Boost
 
 Description: Gives a little performance boost to your wordpress site by stripping queried strings from static resource urls, removing unused scripts, and cleaning up script tags.
 Author: Creative Little Developer
-Version: 1.1
+Version: 1.0
 */
 
 function my_deregister_scripts(){
